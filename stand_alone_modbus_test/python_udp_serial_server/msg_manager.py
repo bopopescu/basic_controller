@@ -1,5 +1,9 @@
 
-
+#
+#  The module link the pysical address to the interface.
+#  The interface stores the device hander in the dict object
+#  and the error counters in the counter object
+#
 
 
 class MessageManager():
